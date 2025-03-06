@@ -73,6 +73,10 @@ education:
       GPA: 9.52/10.0
 
       Minor: Physics
+  - area: Matriculation
+    institution: SSLSVK Alike
+    date_start: '' #2023-06-01
+    date_end: '2012-06-01'
   - area: Siddha Samadhi Yoga (SSY)
     institution: RSVK
     date_start: '' #2023-06-01
