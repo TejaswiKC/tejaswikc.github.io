@@ -65,6 +65,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://scholarspace.library.gwu.edu/etd/gq67js07z'
+    show_in_bio: true
   - area: B.Tech. + M.Tech. (Dual Degree) in Aerospace Engineering
     institution: Indian Institute of Technology, Bombay
     date_start: 2014-07-01
@@ -73,18 +74,20 @@ education:
       GPA: 9.52/10.0
 
       Minor: Physics
+    show_in_bio: true
   - area: Matriculation
     institution: SSLSVK Alike
     date_start: '' #2023-06-01
     date_end: '2012-06-01'
+    show_in_bio: true
   - area: Siddha Samadhi Yoga (SSY)
     institution: RSVK
     date_start: '' #2023-06-01
     date_end: ''
     summary: |2-
-      - Learner and facilitator
-      - Meditation, self-management and social consciousness
-      - Discovering the gift of life
+      Learner and facilitator of meditation, self-management and social consciousness
+    #  - Discovering the gift of life
+    show_in_bio: false
 # Master’s Thesis: Lyapunov-like Functions for Attitude Control via Feedback Integrators
 # Advisors : Srikant Sukumar & Ravi Banavar
 work:
