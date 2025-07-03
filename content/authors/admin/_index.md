@@ -81,7 +81,7 @@ education:
     date_end: '2012-06-01'
     show_in_bio: true
   - area: Siddha Samadhi Yoga (SSY)
-    institution: RSVK
+    institution: '' # RSVK
     date_start: '' #2023-06-01
     date_end: ''
     summary: |2-
@@ -101,7 +101,7 @@ work:
       Responsibilities include:
       - Focus on generalization capacity and computation efficiency in dynamic systems theory for non-conventional hybrid systems
       - Contributing new theoretical and computational results
-      - Guiding graduate students in achieving their research objectives
+    # - Guiding graduate students in achieving their research objectives
     # - Focused on three specific objectives within dynamic systems theory for hybrid systems: mean field game/control, stochastic hybrid systems, and geometric numerical integration
     # - Hosting guests and providing an overview of the lab’s research activities
 
